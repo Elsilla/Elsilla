@@ -4,7 +4,7 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/U9AFpgQ.jpeg"/>
 
-<h2> / about me /</h2>
+<h2> / Sobre mi /</h2>
   
 - ⭐   **aprendiendo** a programar.
 - 👾 un **weeb** que se las arregla para hacer cosas.
