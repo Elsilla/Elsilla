@@ -1,30 +1,38 @@
-<p align = center ><img src="https://i.imgur.com/ABIKFfL.png" width="30%">
 
-<div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/U9AFpgQ.jpeg"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Brahim+Gonzalez+(%EF%BD%9E%EF%BF%A3%E2%96%BD%EF%BF%A3)%EF%BD%9E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&width=435&lines=Programador+Fullstack." alt="Typing SVG" /></a>
 
-<h2> / Sobre mi /</h2>
-  
-- ⭐   **aprendiendo** a programar.
-- 👾 un **weeb** que se las arregla para hacer cosas.
-  
-<h2> / Habilidades / </h2>
-  
-  - <h4> ⏳ aprendiendo... </h4>
+---
 
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
- 
+### 🧠 Sobre mí
+Soy un apasionado por la **tecnología**, aunque me especialicé en el area del derecho, siempre me he interesado por la informatica y la programacion, por eso busco oportunidades en  **desarrollo de software** e investigacion de **inteligencia artificial** para iniciar mi carrera en el area de **Informatica**.
 
-  
-  </br></br>
-  
+Me gusta crear soluciones eficientes y eficaces aprendiendo constantemente sobre nuevas herramientas y lenguajes, para potenciar mis habilidades y mejorar mis proyectos.
 
-<div align="right">
-<a href="https://imgur.com/user/thefryingscotsman">Imagen de thefryingscotsman</a>
-  </div>
-  </div>
+---
 
-------
-Creditos: [zillastar](https://github.com/zillastar)
+### 🧩 Tecnologías y herramientas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,postgresql" />
+  </a>
+</p>
 
+---
+
+### 🚀 Áreas de interés
+- 🤖 **Inteligencia Artificial**
+- 🏛️ **Arquitectura de Software**
+- 🌐 **Desarrollo Web**
+- 👾 **Gestion De Proyectos**
+
+---
+
+### 📫 Conecta conmigo
+📧 **Correo:** *gonzbrahim@gmail.com*  
+💼 **LinkedIn:** *https://www.linkedin.com/in/brahim-gonzalez-064936312/*   
+
+---
+
+<p align="center">✨ _Siempre aprendiendo_ ✨</p>
